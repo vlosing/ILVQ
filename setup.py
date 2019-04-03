@@ -6,5 +6,5 @@ setup(name='ILVQ',
       url='',
       author='Viktor Losing',
       author_email='vlosing@techfak.uni-bielefeld.de',
-      packages=[''],
+      packages=['ILVQ'],
       zip_safe=False)
